@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Harshada 👋
 
-<!--
-**Harshada2202/Harshada2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Java Full Stack Developer
 
-Here are some ideas to get you started:
+💻 Skills:
+- Java
+- Spring Boot
+- Angular
+- MySQL
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- QuickBite Food Ordering System
+- Weather Web Application
+- GlowLeaf Customer Management System
+
+📫 Email: your-email@example.com
